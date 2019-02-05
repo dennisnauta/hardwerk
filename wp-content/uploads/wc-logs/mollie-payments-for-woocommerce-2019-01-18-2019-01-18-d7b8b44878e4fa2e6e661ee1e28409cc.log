@@ -1,0 +1,34 @@
+2019-01-18T17:42:49+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2019-01-18T17:43:58+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2019-01-18T17:45:06+00:00 DEBUG mollie_wc_gateway_ideal: Start process_payment for order 167
+2019-01-18T17:45:06+00:00 DEBUG setUserMollieCustomerId: Stored Mollie customer ID cst_Arre3fj75C with user 1
+2019-01-18T17:45:06+00:00 DEBUG getUserMollieCustomerId: Created a Mollie Customer (cst_Arre3fj75C) for WordPress user with ID 1 (test).
+2019-01-18T17:45:06+00:00 DEBUG mollie_wc_gateway_ideal: Order 167 webhookUrl: http://localhost/wc-api/mollie_wc_gateway_ideal/?order_id=167&key=wc_order_5c4210a19e28d
+2019-01-18T17:45:06+00:00 DEBUG mollie_wc_gateway_ideal: Create Mollie payment object for order 167
+2019-01-18T17:45:06+00:00 DEBUG Creating payment object: type Order, first try creating a Mollie Order.
+2019-01-18T17:45:06+00:00 DEBUG Creating payment object: type Order, first try failed: Error executing API call (422: Unprocessable Entity): The webhook URL is invalid: 'localhost' cannot be used as it is unreachable from Mollie's point of view.. Field: webhookUrl. Documentation: https://docs.mollie.com/guides/handling-errors
+2019-01-18T17:45:06+00:00 DEBUG Creating payment object: type Order, did not fail because of incorrect customerId, so trying Payment now.
+2019-01-18T17:45:06+00:00 DEBUG Creating payment object: type Payment, final try, creating a Payment.
+2019-01-18T17:45:06+00:00 DEBUG mollie_wc_gateway_ideal: Order 167 webhookUrl: http://localhost/wc-api/mollie_wc_gateway_ideal/?order_id=167&key=wc_order_5c4210a19e28d
+2019-01-18T17:45:06+00:00 DEBUG mollie_wc_gateway_ideal: Failed to create Mollie payment object for order 167: Error executing API call (422: Unprocessable Entity): The webhook URL is invalid because it is unreachable from Mollie's point of view.. Field: webhookUrl. Documentation: https://docs.mollie.com/guides/handling-errors
+2019-01-18T17:46:04+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2019-01-18T17:46:19+00:00 DEBUG mollie_wc_gateway_ideal: Start process_payment for order 167
+2019-01-18T17:46:20+00:00 DEBUG getUserMollieCustomerId: Mollie Customer ID (cst_Arre3fj75C) found and valid for user 1 on this API key. (test).
+2019-01-18T17:46:20+00:00 DEBUG mollie_wc_gateway_ideal: Order 167 webhookUrl: http://localhost/wc-api/mollie_wc_gateway_ideal/?order_id=167&key=wc_order_5c4210a19e28d
+2019-01-18T17:46:20+00:00 DEBUG mollie_wc_gateway_ideal: Create Mollie payment object for order 167
+2019-01-18T17:46:20+00:00 DEBUG Creating payment object: type Order, first try creating a Mollie Order.
+2019-01-18T17:46:20+00:00 DEBUG Creating payment object: type Order, first try failed: Error executing API call (422: Unprocessable Entity): The webhook URL is invalid: 'localhost' cannot be used as it is unreachable from Mollie's point of view.. Field: webhookUrl. Documentation: https://docs.mollie.com/guides/handling-errors
+2019-01-18T17:46:20+00:00 DEBUG Creating payment object: type Order, did not fail because of incorrect customerId, so trying Payment now.
+2019-01-18T17:46:20+00:00 DEBUG Creating payment object: type Payment, final try, creating a Payment.
+2019-01-18T17:46:20+00:00 DEBUG mollie_wc_gateway_ideal: Order 167 webhookUrl: http://localhost/wc-api/mollie_wc_gateway_ideal/?order_id=167&key=wc_order_5c4210a19e28d
+2019-01-18T17:46:20+00:00 DEBUG mollie_wc_gateway_ideal: Failed to create Mollie payment object for order 167: Error executing API call (422: Unprocessable Entity): The webhook URL is invalid because it is unreachable from Mollie's point of view.. Field: webhookUrl. Documentation: https://docs.mollie.com/guides/handling-errors
+2019-01-18T17:46:40+00:00 DEBUG mollie_wc_gateway_ideal: Start process_payment for order 167
+2019-01-18T17:46:40+00:00 DEBUG getUserMollieCustomerId: Mollie Customer ID (cst_Arre3fj75C) found and valid for user 1 on this API key. (test).
+2019-01-18T17:46:40+00:00 DEBUG mollie_wc_gateway_ideal: Order 167 webhookUrl: http://localhost/wc-api/mollie_wc_gateway_ideal/?order_id=167&key=wc_order_5c4210a19e28d
+2019-01-18T17:46:40+00:00 DEBUG mollie_wc_gateway_ideal: Create Mollie payment object for order 167
+2019-01-18T17:46:40+00:00 DEBUG Creating payment object: type Order, first try creating a Mollie Order.
+2019-01-18T17:46:40+00:00 DEBUG Creating payment object: type Order, first try failed: Error executing API call (422: Unprocessable Entity): The webhook URL is invalid: 'localhost' cannot be used as it is unreachable from Mollie's point of view.. Field: webhookUrl. Documentation: https://docs.mollie.com/guides/handling-errors
+2019-01-18T17:46:40+00:00 DEBUG Creating payment object: type Order, did not fail because of incorrect customerId, so trying Payment now.
+2019-01-18T17:46:40+00:00 DEBUG Creating payment object: type Payment, final try, creating a Payment.
+2019-01-18T17:46:40+00:00 DEBUG mollie_wc_gateway_ideal: Order 167 webhookUrl: http://localhost/wc-api/mollie_wc_gateway_ideal/?order_id=167&key=wc_order_5c4210a19e28d
+2019-01-18T17:46:40+00:00 DEBUG mollie_wc_gateway_ideal: Failed to create Mollie payment object for order 167: Error executing API call (422: Unprocessable Entity): The webhook URL is invalid because it is unreachable from Mollie's point of view.. Field: webhookUrl. Documentation: https://docs.mollie.com/guides/handling-errors

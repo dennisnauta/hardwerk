@@ -1,0 +1,42 @@
+2019-02-04T18:45:07+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/loop/add-to-cart.php op de lijn 35
+
+2019-02-04T18:46:00+00:00 CRITICAL syntax error, unexpected ';' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/loop/add-to-cart.php op de lijn 41
+
+2019-02-04T18:46:20+00:00 CRITICAL syntax error, unexpected end of file in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/loop/add-to-cart.php op de lijn 36
+
+2019-02-04T18:47:36+00:00 CRITICAL syntax error, unexpected '?>' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/single-product/add-to-cart/simple.php op de lijn 47
+
+2019-02-04T19:24:05+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 84
+
+2019-02-04T19:39:33+00:00 CRITICAL Call to undefined function get_field() in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 85
+
+2019-02-04T19:54:34+00:00 CRITICAL Call to undefined function get_product_attributes() in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 83
+
+2019-02-04T19:56:03+00:00 CRITICAL syntax error, unexpected '}' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 85
+
+2019-02-04T19:56:03+00:00 CRITICAL syntax error, unexpected '}' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 85
+
+2019-02-04T19:56:12+00:00 CRITICAL syntax error, unexpected '}' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 84
+
+2019-02-04T19:57:35+00:00 CRITICAL syntax error, unexpected '$size' (T_VARIABLE), expecting '{' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 81
+
+2019-02-04T19:57:35+00:00 CRITICAL syntax error, unexpected '$size' (T_VARIABLE), expecting '{' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 81
+
+2019-02-04T19:57:35+00:00 CRITICAL syntax error, unexpected '$size' (T_VARIABLE), expecting '{' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 81
+
+2019-02-04T19:57:37+00:00 CRITICAL syntax error, unexpected '$size' (T_VARIABLE), expecting '{' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 81
+
+2019-02-04T19:58:06+00:00 CRITICAL Call to a member function get_attribute() on null in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 82
+
+2019-02-04T19:58:21+00:00 CRITICAL Call to a member function get_custom_attribute() on null in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 82
+
+2019-02-04T20:00:16+00:00 CRITICAL syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 83
+
+2019-02-04T20:01:32+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 84
+
+2019-02-04T20:02:04+00:00 CRITICAL syntax error, unexpected 'true' (T_STRING) in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 83
+
+2019-02-04T20:02:10+00:00 CRITICAL syntax error, unexpected 'true' (T_STRING) in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 83
+
+2019-02-04T20:10:29+00:00 CRITICAL syntax error, unexpected ''col-4'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/functions.php op de lijn 85
+

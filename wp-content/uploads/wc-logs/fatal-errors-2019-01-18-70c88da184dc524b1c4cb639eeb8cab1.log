@@ -1,0 +1,18 @@
+2019-01-18T17:05:21+00:00 CRITICAL syntax error, unexpected '}' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/header.php op de lijn 61
+
+2019-01-18T17:05:41+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/header.php op de lijn 60
+
+2019-01-18T17:05:49+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/header.php op de lijn 60
+
+2019-01-18T17:53:40+00:00 CRITICAL syntax error, unexpected '11' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/archive-product.php op de lijn 33
+
+2019-01-18T17:54:08+00:00 CRITICAL Call to a member function ID() on null in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/archive-product.php op de lijn 34
+
+2019-01-18T17:56:47+00:00 CRITICAL Call to undefined function get_post_thumbnail() in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/archive-product.php op de lijn 21
+
+2019-01-18T17:57:01+00:00 CRITICAL Call to undefined function get_post_image() in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/archive-product.php op de lijn 21
+
+2019-01-18T18:07:02+00:00 CRITICAL syntax error, unexpected '$bgImage' (T_VARIABLE), expecting identifier (T_STRING) in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/archive-product.php op de lijn 22
+
+2019-01-18T18:07:11+00:00 CRITICAL syntax error, unexpected '$bgImage' (T_VARIABLE), expecting identifier (T_STRING) in /Users/dennisnauta/Documents/development/hardwerkfogeltje.nl/wp-content/themes/understrap-master/woocommerce/archive-product.php op de lijn 22
+
